@@ -1,3 +1,3 @@
-if(true){
+if (true) {
 console.log("data")
 }
